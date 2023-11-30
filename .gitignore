@@ -1,0 +1,4 @@
+acpi_override
+*.aml
+*.asm
+kernel/
